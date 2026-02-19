@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/01/">
+    <Project Path="IsTheNumberEvenOrNot/IsTheNumberEvenOrNot.csproj" Id="006a04a5-514f-4816-a0f5-27e877bd6f9c" />
+  </Folder>
+  <Folder Name="/Share/" />
+</Solution>
