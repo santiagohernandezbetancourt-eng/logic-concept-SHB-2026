@@ -2,5 +2,10 @@
   <Folder Name="/01/">
     <Project Path="IsTheNumberEvenOrNot/IsTheNumberEvenOrNot.csproj" Id="006a04a5-514f-4816-a0f5-27e877bd6f9c" />
   </Folder>
-  <Folder Name="/Share/" />
+  <Folder Name="/02/">
+    <Project Path="HighNumber/HighNumber.csproj" Id="3706821f-def6-41f8-bb76-3f39a9de5a80" />
+  </Folder>
+  <Folder Name="/Share/">
+    <Project Path="Shares/Share.csproj" Id="7764faa6-86af-429e-b30a-50482f2254dd" />
+  </Folder>
 </Solution>

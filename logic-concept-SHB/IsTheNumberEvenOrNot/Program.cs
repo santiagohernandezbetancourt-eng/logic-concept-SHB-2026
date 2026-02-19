@@ -32,4 +32,4 @@ do
 
 
 } while (numberString!.ToLower() != "salir");
-Console.WriteLine("Excelente");
+Console.WriteLine("Game over");
