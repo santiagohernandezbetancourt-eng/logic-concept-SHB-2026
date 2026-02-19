@@ -5,6 +5,10 @@
   <Folder Name="/02/">
     <Project Path="HighNumber/HighNumber.csproj" Id="3706821f-def6-41f8-bb76-3f39a9de5a80" />
   </Folder>
+  <Folder Name="/03/" />
+  <Folder Name="/04/">
+    <Project Path="MultipleNumberOfAnother/MultipleNumberOfAnother.csproj" Id="0b192755-afd4-4d38-922e-1266d2844081" />
+  </Folder>
   <Folder Name="/Share/">
     <Project Path="Shares/Share.csproj" Id="7764faa6-86af-429e-b30a-50482f2254dd" />
   </Folder>
