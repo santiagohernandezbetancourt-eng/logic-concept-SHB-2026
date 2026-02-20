@@ -5,7 +5,9 @@
   <Folder Name="/02/">
     <Project Path="HighNumber/HighNumber.csproj" Id="3706821f-def6-41f8-bb76-3f39a9de5a80" />
   </Folder>
-  <Folder Name="/03/" />
+  <Folder Name="/03/">
+    <Project Path="SortTrheeNumbers/SortTrheeNumbers.csproj" Id="8aa70311-4ec8-477a-b3ef-ed01c5446429" />
+  </Folder>
   <Folder Name="/04/">
     <Project Path="MultipleNumberOfAnother/MultipleNumberOfAnother.csproj" Id="0b192755-afd4-4d38-922e-1266d2844081" />
   </Folder>
