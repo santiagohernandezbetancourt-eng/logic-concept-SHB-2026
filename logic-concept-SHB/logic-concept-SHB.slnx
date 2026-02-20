@@ -12,6 +12,10 @@
   <Folder Name="/05/">
     <Project Path="LeepYear/LeepYear.csproj" Id="2b05ea17-225b-47ea-a389-d890d8ce55dc" />
   </Folder>
+  <Folder Name="/06/" />
+  <Folder Name="/07/">
+    <Project Path="Discount/Discount.csproj" Id="b16ff63a-427e-4856-a2f3-433ad7ccf135" />
+  </Folder>
   <Folder Name="/Share/">
     <Project Path="Shares/Share.csproj" Id="7764faa6-86af-429e-b30a-50482f2254dd" />
   </Folder>
